@@ -40,7 +40,7 @@ export const Form = () => {
             onBlur={empty}
             required
           />
-          {error && <S.Perror>{error}</S.Perror>}
+          {error && <S.Error>{error}</S.Error>}
 
           <Input
             type="email"
