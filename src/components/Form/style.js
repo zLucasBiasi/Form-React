@@ -26,7 +26,7 @@ export const Wrapper = styled.div`
   width: 100%;
 `;
 
-export const Perror = styled.p`
+export const Error = styled.p`
   font-size: 1.4rem;
   color: red;
 `;
